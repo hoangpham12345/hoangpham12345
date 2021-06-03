@@ -3,7 +3,7 @@
 My name is Phạm Huy Hoàng, I am from Vietnam.  
 I am a third-year student who studies Computer Science at International University - HCM National University, Vietnam.  
 I am fond of learning a new technique and trying to adapt to the project.  
-My favorite motto is "Just do it. Nothing is impossible" which is inspired by Shia Labeouf's motivational speech.  
+My favorite motto is __"Just do it. Nothing is impossible."__ which is inspired by Shia Labeouf's motivational speech.  
 Although I may be lack experience, I am very pleased to work with everyone from all over the world.  
 
 😮 Fun fact: The only thing your left hand cannot hold but your right hand can is your left elbow.
